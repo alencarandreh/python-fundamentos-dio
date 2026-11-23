@@ -15,7 +15,7 @@ Este repositório é o meu registro de estudo. O bootcamp está **em andamento**
 | `05-estruturas-de-repeticao` | `for` (com iterável e `range`), `while` e `break` |
 | `06-blocos-e-funcoes` | identificação de blocos por indentação e definição simples de funções |
 | `07-strings` | métodos de string (`upper`, `strip`, `center`, `join`), formatação com `f-string` e fatiamento |
-| `desafios` | desafios de código do curso: entrada de dados, soma, desconto por faixa de valor, aprovação de transação e formatação de nome |
+| `desafios` | desafios de código do curso: entrada de dados, desconto por faixa de valor, aprovação de transação e formatação de nome |
 
 ## Certificados (DIO)
 
